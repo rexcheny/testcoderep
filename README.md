@@ -1,2 +1,2 @@
 # testcoderep
-练习使用GIT所用的仓库
+练习git命令使用的仓库
